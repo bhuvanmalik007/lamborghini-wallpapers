@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bhuvanmalik/Desktop/BHUVAN/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/bhuvanmalik/AndroidStudioProjects/LamborghiniWallpaper/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-9d0b1cd7af4f60db11e495c8c13856b17c41ad14.jar" />
+    </item>
+
+</items>
